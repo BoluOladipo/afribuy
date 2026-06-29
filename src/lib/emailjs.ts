@@ -1,9 +1,6 @@
 import emailjs from "@emailjs/browser";
 
-const SERVICE_ID = "service_a54nm3r";
-const PUBLIC_KEY = "FYOriEIArK3tXNeAg";
-const OTP_TEMPLATE = "template_aj6xot2";
-const ORDER_TEMPLATE = "template_vze2tkb";
+
 
 emailjs.init({ publicKey: PUBLIC_KEY });
 
