@@ -36,7 +36,7 @@ function Shop() {
     <div className="container mx-auto px-4 py-10">
       <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-4">
         <div>
-          <h1 className="text-3xl font-bold">Shop</h1>
+          <h1 className="text-3xl font-bold">SHOP</h1>
           <p className="text-muted-foreground mt-1">Browse our latest products</p>
         </div>
         <div className="relative w-full md:w-80">
